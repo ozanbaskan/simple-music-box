@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/simple-music-box/static/css/main.a76eec00.chunk.css",
+    "main.js": "/simple-music-box/static/js/main.ca57097a.chunk.js",
+    "main.js.map": "/simple-music-box/static/js/main.ca57097a.chunk.js.map",
+    "runtime-main.js": "/simple-music-box/static/js/runtime-main.f21c83b4.js",
+    "runtime-main.js.map": "/simple-music-box/static/js/runtime-main.f21c83b4.js.map",
+    "static/js/2.972aa998.chunk.js": "/simple-music-box/static/js/2.972aa998.chunk.js",
+    "static/js/2.972aa998.chunk.js.map": "/simple-music-box/static/js/2.972aa998.chunk.js.map",
+    "static/js/3.a62b65cc.chunk.js": "/simple-music-box/static/js/3.a62b65cc.chunk.js",
+    "static/js/3.a62b65cc.chunk.js.map": "/simple-music-box/static/js/3.a62b65cc.chunk.js.map",
+    "index.html": "/simple-music-box/index.html",
+    "static/css/main.a76eec00.chunk.css.map": "/simple-music-box/static/css/main.a76eec00.chunk.css.map",
+    "static/js/2.972aa998.chunk.js.LICENSE.txt": "/simple-music-box/static/js/2.972aa998.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/simple-music-box/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f21c83b4.js",
+    "static/js/2.972aa998.chunk.js",
+    "static/css/main.a76eec00.chunk.css",
+    "static/js/main.ca57097a.chunk.js"
+  ]
+}
